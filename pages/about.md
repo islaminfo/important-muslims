@@ -1,6 +1,6 @@
 ---
 title: About timelinejs-template
-nav: About
+nav: شارك
 nav_order: 2
 layout: page-narrow
 ---

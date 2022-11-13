@@ -1,8 +1,8 @@
 ---
-title: Example Timeline
+title: المسلمون الذين شكلوا العالم
 layout: page
 # add TimelineJS
-timeline: demo-timeline
+timeline: important-muslims
 timeline-options:
   hash_bookmark: true
 ---
